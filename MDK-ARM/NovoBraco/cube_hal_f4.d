@@ -1,0 +1,37 @@
+novobraco\cube_hal_f4.o: ..\Core\Src\cube_hal_f4.c
+novobraco\cube_hal_f4.o: ../Core/Inc/cube_hal.h
+novobraco\cube_hal_f4.o: ../Core/Inc/main.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+novobraco\cube_hal_f4.o: ../Core/Inc/stm32f4xx_hal_conf.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Include/core_cm4.h
+novobraco\cube_hal_f4.o: C:\Program Files (x86)\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Include/cmsis_version.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+novobraco\cube_hal_f4.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+novobraco\cube_hal_f4.o: C:\Program Files (x86)\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rtc_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+novobraco\cube_hal_f4.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
